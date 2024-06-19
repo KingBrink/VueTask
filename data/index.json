@@ -1,0 +1,174 @@
+{
+    "jobTitle": [
+        {
+            "hello": "Hi my name is",
+            "name": "Kyle Brink",
+            "title": "Future Fullstack Developer"
+        }  
+    ],
+    "about":[
+        {
+            "description":"Hi, my name is Kyle Brink and I am an aspiring Full Stack Developer. I enjoy complex challenges aswell as helping other peoples dreams and ideas become a reality. I believe that life is all about doing what you love so that it will feel like you never worked a day in your life. This is why I fell inlove with coding because it is my passion to design and build other peoples ideas for them. I enjoy working in a team, listening and taking everyones opinion into consideration to come up with the best possible solution.In my free time you will find me in the ocean, surfing which is my happy place when i am not infront of the computer working on new projects and gathering more information on how to better my coding skills. I also enjoy spending quality time with my family and close friends, going on hikes aswell as watching informative documentaries. My friends call me a workaholic because they will always find me coding but they don't understand that to me it's a Life Style not work. This is why i believe everyone should do what they love and as you can tell from what you see. Coding and putting peoples ideas and dreams into reality is what i really enjoy doing."
+
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": "2016-2020",
+            "description": "Matric Certificate",
+            "place": "Muizenberg High School",
+            "logo": ""
+        },
+        {
+            "id": 2,
+            "year": "2016",
+            "description": "Life Saving South Africa Certificate",
+            "place": "Qualified Lifegaurd",
+            "logo": ""
+        },
+        {
+            "id": 3,
+            "year": "April 2024",
+            "description": "I am currently a student at Life Choices Coding Academy and i am learning alot about my self",
+            "place": "Life choices Coding Academy",
+            "logo": ""
+        }
+    ],
+    "experiences":[
+        {
+            "id": 1,
+            "title": "Waiter",
+            "description":"Worked as a waiter for 6 months. I've gained the skill to follow orders and instructions without any detail being left out. I've also learnt to put the customers needs first and make sure that they are satisfied with the service."
+        },
+        {
+            "id": 2,
+            "title": "Life Gaurding",
+            "description":"I've had the privilege of being a lifegaurd for more than 5 years at the pool and beach.I learnt how to observe people and keep them safe with my drowning prevention knowledge and skills. I have attained first aid experience which would come in handy in the work place if need be."
+        },
+        {
+            "id": 3,
+            "title": "Teacher Assistant",
+            "description":"Volunteerd at Heithfield Primary as an assistant teacher for grade 5 students. I have gained experience in working with different personalities and understanding scenarios and feelings from different perspectives."
+        },
+        {
+            "id": 4,
+            "title": "Sales and Marketing Experience",
+            "description":"I had the priveledge to shadow my aunty as a sales represntative aswell as market cars and car accesories at Toyota. I gained Experience in engaging with clients and pursuading them into buying products."
+        },
+        {
+            "id": 5,
+            "title": "Ambulance Dispatcher",
+            "description":"I shadowed Michaela as an Ambulance Dispatcher at ResQ911. I learnt how to work well under pressure and do tasks in stressful situations in short periods of time."
+        }
+    ],
+    "skills": [
+        {  
+            "skill": "https://kingbrink.github.io/all-images/images/htmllogo.jpg",
+            "level":"senior",
+            "name":"HTML"
+        },
+        {
+            "skill": "https://kingbrink.github.io/all-images/images/css2.jpg",
+            "level": "senior",
+            "name": "CSS"
+        },
+        {
+            "skill": "https://kingbrink.github.io/all-images/images/Bootstraplogo.jpg",
+            "level":"intermediate",
+            "name": "Bootstrap"
+        },
+        {
+            "skill": "https://kingbrink.github.io/all-images/images/jsLogo1.jpeg",
+            "level":"intermediate",
+            "name":"JavaScript"
+        },
+        {
+            "skill": "https://kingbrink.github.io/all-images/images/vuelogo.jpeg",
+            "level":"intermediate",
+            "name":"Vuejs"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Joel",
+            "surname": "Mukanya",
+            "quotes": "Kyle is a highly creative, well-behaved, and dedicated individual who thrive on collaborating with his peers and excels at working on project assignments. He has acquired a diverse range of skills and tools, including HTML5, CSS3, and Bootstrap.It is my great pleasure to introduce him to you.",
+            "profile": "https://kingbrink.github.io/all-images/images/joel.jpg"
+        },
+        {
+            "name": "Asheeka",
+            "surname": "Samuels",
+            "quotes": "I have had the pleasure of working alongside Kyle, and I can confidently say that he is an exceptional team member. He has a remarkable ability to listen to others ideas with an open mind. His a really great colleague but an even better friend",
+            "profile": "https://kingbrink.github.io/all-images/images/asheeka.jpg"
+        },
+        {
+            "name": "Caleb",
+            "surname": "Okkers",
+            "quotes": "His easy going nature and willingness to improve was evident almost immediately. He surprised me with his people skills and his ability to effectively interact with others. He is wise beyond his years, lightens up the room and has the technical aptitude to prove himself an incredible developer.",
+            "profile": "https://kingbrink.github.io/all-images/images/caleb.jpg"
+        },
+        {
+            "name": "Anushqa",
+            "surname": "Kandan",
+            "quotes": "Kyle is an extremely dedicated worker who always strives to do the best he can. He remains willing to attain new knowledge and works very well in a team. Kyle has the ability to create a comfortable atmosphere for those around him and always goes the extra mile when necessary.",
+            "profile": "https://kingbrink.github.io/all-images/images/aanushqa.jpg"
+        },
+        {
+            "name": "Masoodah",
+            "surname": "George",
+            "quotes": " His personality shines through in his interactions with colleagues, always offering support and encouragement with a genuine warmth that uplifts the team. Kyle's combination of diligence and kindness makes him a valuable asset to any organization fortunate enough to have him on board.",
+            "profile": ""
+        },
+        {
+            "name": "Shakeel",
+            "surname": "Davids",
+            "quotes": "",
+            "profile": "https://kingbrink.github.io/all-images/images/shakeel.jpg"
+        }
+    ],
+    "projects":[
+        {
+            "name": "Keyboard",
+            "description": "A keyboard using HTML,CSS and Bootstrap.",
+            "image": "https://kingbrink.github.io/all-images/images/keyboard.png",
+            "gitHub": "https://github.com/KingBrink/keyboard.git",
+            "vercel": "https://keyboard-khaki-one.vercel.app/"
+        },
+        {
+            "name": "Calculator",
+            "description": "A calculator using HTML,CSS and Bootstrap.",
+            "image": "https://kingbrink.github.io/all-images/images/calculator.png",
+            "gitHub":"https://github.com/KingBrink/calculator.git",
+            "vercel": "https://calculator-flax-zeta.vercel.app/"
+        },
+        {
+            "name": "Hulu",
+            "description": "A Project using HTML, CSS and Bootstrap.",
+            "image": "https://kingbrink.github.io/all-images/images/hulu.png",
+            "gitHub": "https://github.com/KingBrink/hulu.git",
+            "vercel": "https://hulu-gilt.vercel.app/"
+        },
+        {
+            "name": "My First WebPortfolio",
+            "description": "A project using HTML,CSS and Bootstrap",
+            "image": "https://kingbrink.github.io/all-images/images/FirstPortfolio.png",
+            "gitHub": "https://github.com/KingBrink/KyleBootstrapPortfolio.git",
+            "vercel": ""
+        },
+        {
+            "name": "My online store",
+            "description": "A project using HTML,CSS, Bootstrap, Javascript",
+            "image": "https://kingbrink.github.io/all-images/images/Onlinestore.png",
+            "gitHub": "https://github.com/KingBrink/JS-EOMP-FBC.git",
+            "vercel": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "image": "",
+            "gitHub": "",
+            "vercel": ""
+        }
+    ]
+}
