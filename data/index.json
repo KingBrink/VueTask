@@ -18,21 +18,21 @@
             "year": "2016-2020",
             "description": "Matric Certificate",
             "place": "Muizenberg High School",
-            "logo": ""
+            "logo": "https://kingbrink.github.io/all-images/images/Muizenberghigh.jpg"
         },
         {
             "id": 2,
-            "year": "2016",
+            "year": "2016 - current",
             "description": "Life Saving South Africa Certificate",
             "place": "Qualified Lifegaurd",
-            "logo": ""
+            "logo": "https://kingbrink.github.io/all-images/images/Lifesaving_South_Africa_Logo.jpeg"
         },
         {
             "id": 3,
-            "year": "April 2024",
-            "description": "I am currently a student at Life Choices Coding Academy and i am learning alot about my self",
-            "place": "Life choices Coding Academy",
-            "logo": ""
+            "year": "April 2024 - current",
+            "description": "I am currently a student at Life Choices Coding Academy and i am learning alot about coding and the work environment, i am also growing and maturing mentaly due to all the personal development  sessions.",
+            "place": "Life Choices Coding Academy",
+            "logo": "https://kingbrink.github.io/all-images/images/LifechoicesLogo.jpeg"
         }
     ],
     "experiences":[
@@ -118,7 +118,7 @@
             "name": "Masoodah",
             "surname": "George",
             "quotes": " His personality shines through in his interactions with colleagues, always offering support and encouragement with a genuine warmth that uplifts the team. Kyle's combination of diligence and kindness makes him a valuable asset to any organization fortunate enough to have him on board.",
-            "profile": ""
+            "profile": "https://kingbrink.github.io/all-images/images/masoodah.jpg"
         },
         {
             "name": "Shakeel",
@@ -154,14 +154,14 @@
             "description": "A project using HTML,CSS and Bootstrap",
             "image": "https://kingbrink.github.io/all-images/images/FirstPortfolio.png",
             "gitHub": "https://github.com/KingBrink/KyleBootstrapPortfolio.git",
-            "vercel": ""
+            "vercel": "https://kyle-bootstrap-portfolio.vercel.app/"
         },
         {
             "name": "My online store",
             "description": "A project using HTML,CSS, Bootstrap, Javascript",
             "image": "https://kingbrink.github.io/all-images/images/Onlinestore.png",
             "gitHub": "https://github.com/KingBrink/JS-EOMP-FBC.git",
-            "vercel": ""
+            "vercel": "https://js-eomp-fbc-tksj.vercel.app/"
         },
         {
             "name": "",
