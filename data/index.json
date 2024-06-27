@@ -1,16 +1,27 @@
 {
     "jobTitle": [
         {
-            "hello": "Hi my name is",
-            "name": "Kyle Brink",
-            "title": "Future Fullstack Developer"
-        }  
-    ],
-    "about":[
+            "title": "a Future Fullstack Developer",
+            "color": "rgb(57, 153, 0)"
+        },
         {
-            "description":"Hi, my name is Kyle Brink and I am an aspiring Full Stack Developer. I enjoy complex challenges aswell as helping other peoples dreams and ideas become a reality. I believe that life is all about doing what you love so that it will feel like you never worked a day in your life. This is why I fell inlove with coding because it is my passion to design and build other peoples ideas for them. I enjoy working in a team, listening and taking everyones opinion into consideration to come up with the best possible solution.In my free time you will find me in the ocean, surfing which is my happy place when i am not infront of the computer working on new projects and gathering more information on how to better my coding skills. I also enjoy spending quality time with my family and close friends, going on hikes aswell as watching informative documentaries. My friends call me a workaholic because they will always find me coding but they don't understand that to me it's a Life Style not work. This is why i believe everyone should do what they love and as you can tell from what you see. Coding and putting peoples ideas and dreams into reality is what i really enjoy doing."
+            "title": "a youTuber",
+            "color": "rgb(0, 100, 0)"
+        },
+        {
+            "title": "a Founder and CEO at KB Devs",
+            "color": "rgb(0, 76, 10)"
+        },
+        {
+            "title": "an IT Student",
+            "color": "rgb(0, 150, 0)"
+        }    
+    ], 
+    "about":[
+        
+        "Hi, my name is Kyle Brink and I am an aspiring Full Stack Developer. I enjoy complex challenges aswell as helping other peoples dreams and ideas become a reality. I believe that life is all about doing what you love so that it will feel like you never worked a day in your life. This is why I fell inlove with coding because it is my passion to design and build other peoples ideas for them. I enjoy working in a team, listening and taking everyones opinion into consideration to come up with the best possible solution.In my free time you will find me in the ocean, surfing which is my happy place when i am not infront of the computer working on new projects and gathering more information on how to better my coding skills. I also enjoy spending quality time with my family and close friends, going on hikes aswell as watching informative documentaries. My friends call me a workaholic because they will always find me coding but they don't understand that to me it's a Life Style not work. This is why i believe everyone should do what they love and as you can tell from what you see. Coding and putting peoples ideas and dreams into reality is what i really enjoy doing."
 
-        }
+        
     ],
     "education": [
         {
