@@ -104,36 +104,42 @@
         {
             "name": "Joel",
             "surname": "Mukanya",
+            "role": "Lecturer/Mentor",
             "quotes": "Kyle is a highly creative, well-behaved, and dedicated individual who thrive on collaborating with his peers and excels at working on project assignments. He has acquired a diverse range of skills and tools, including HTML5, CSS3, and Bootstrap.It is my great pleasure to introduce him to you.",
             "profile": "https://kingbrink.github.io/all-images/images/joel.jpg"
         },
         {
             "name": "Asheeka",
             "surname": "Samuels",
+            "role": "Colleague/Web Developer",
             "quotes": "I have had the pleasure of working alongside Kyle, and I can confidently say that he is an exceptional team member. He has a remarkable ability to listen to others ideas with an open mind. His a really great colleague but an even better friend",
             "profile": "https://kingbrink.github.io/all-images/images/asheeka.jpg"
         },
         {
             "name": "Caleb",
             "surname": "Okkers",
+            "role": "Colleague/Web Developer",
             "quotes": "His easy going nature and willingness to improve was evident almost immediately. He surprised me with his people skills and his ability to effectively interact with others. He is wise beyond his years, lightens up the room and has the technical aptitude to prove himself an incredible developer.",
             "profile": "https://kingbrink.github.io/all-images/images/caleb.jpg"
         },
         {
             "name": "Anushqa",
             "surname": "Kandan",
+            "role": "Colleague/Web Developer",
             "quotes": "Kyle is an extremely dedicated worker who always strives to do the best he can. He remains willing to attain new knowledge and works very well in a team. Kyle has the ability to create a comfortable atmosphere for those around him and always goes the extra mile when necessary.",
             "profile": "https://kingbrink.github.io/all-images/images/aanushqa.jpg"
         },
         {
             "name": "Masoodah",
             "surname": "George",
+            "role": "Colleague/Web Developer",
             "quotes": " His personality shines through in his interactions with colleagues, always offering support and encouragement with a genuine warmth that uplifts the team. Kyle's combination of diligence and kindness makes him a valuable asset to any organization fortunate enough to have him on board.",
             "profile": "https://kingbrink.github.io/all-images/images/masoodah.jpg"
         },
         {
             "name": "Shakeel",
             "surname": "Davids",
+            "role": "Colleague/Web Developer",
             "quotes": "Kyle is an incredibly intelligent coder whose generosity and boldness shine through in everything he does. His bright, outgoing personality and helpful nature make him a truly exceptional individual and a joy to work with.",
             "profile": "https://kingbrink.github.io/all-images/images/shakeel.jpg"
         }
